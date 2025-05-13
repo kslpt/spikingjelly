@@ -45,11 +45,6 @@ SpikingJelly的文档使用中英双语编写： https://spikingjelly.readthedoc
 - [0.0.0.0.14](https://spikingjelly.readthedocs.io/zh_CN/0.0.0.0.14/)
 - [latest](https://spikingjelly.readthedocs.io/zh_CN/latest/)
 
-**从** [**PyPI**](https://pypi.org/project/spikingjelly/) **安装最新的稳定版本**：
-
-```bash
-pip install spikingjelly
-```
 
 **从源代码安装最新的开发版**：
 
