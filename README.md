@@ -68,13 +68,7 @@ pip install spikingjelly
 
 From [GitHub](https://github.com/fangwei123456/spikingjelly):
 ```bash
-git clone https://github.com/fangwei123456/spikingjelly.git
-cd spikingjelly
-python setup.py install
-```
-From [OpenI](https://openi.pcl.ac.cn/OpenI/spikingjelly):
-```bash
-git clone https://openi.pcl.ac.cn/OpenI/spikingjelly.git
+https://github.com/kslpt/spikingjelly.git
 cd spikingjelly
 python setup.py install
 ```
