@@ -63,7 +63,7 @@ If you use an old version of SpikingJelly, you may encounter some fatal bugs. Re
 
 From [GitHub](https://github.com/fangwei123456/spikingjelly):
 ```bash
-https://github.com/kslpt/spikingjelly.git
+git clone https://github.com/kslpt/spikingjelly.git
 cd spikingjelly
 python setup.py install
 ```
