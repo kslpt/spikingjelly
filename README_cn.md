@@ -55,16 +55,11 @@ pip install spikingjelly
 
 通过[GitHub](https://github.com/fangwei123456/spikingjelly)：
 ```bash
-git clone https://github.com/fangwei123456/spikingjelly.git
+git clone https://github.com/kslpt/spikingjelly.git
 cd spikingjelly
 python setup.py install
 ```
-通过[OpenI](https://openi.pcl.ac.cn/OpenI/spikingjelly):
-```bash
-git clone https://openi.pcl.ac.cn/OpenI/spikingjelly.git
-cd spikingjelly
-python setup.py install
-```
+
 ## 以前所未有的简单方式搭建SNN
 
 SpikingJelly非常易于使用。使用SpikingJelly搭建SNN，就像使用PyTorch搭建ANN一样简单：
