@@ -58,11 +58,6 @@ If you use an old version of SpikingJelly, you may encounter some fatal bugs. Re
 - [0.0.0.0.14](https://spikingjelly.readthedocs.io/zh_CN/0.0.0.0.14/#index-en)
 - [latest](https://spikingjelly.readthedocs.io/zh_CN/latest/#index-en)
 
-**Install the last stable version from** [**PyPI**](https://pypi.org/project/spikingjelly/):
-
-```bash
-pip install spikingjelly
-```
 
 **Install the latest developing version from the source code**:
 
